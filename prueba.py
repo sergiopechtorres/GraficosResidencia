@@ -1,5 +1,5 @@
 from tkinter import *
-
+#otra prueba
 # Configuración de la raíz
 root = Tk()
 
