@@ -63,7 +63,8 @@ ventana.protocol("WM_DELETE_WINDOW", on_closing)
 mi_menu = tk.Menu(ventana)
 mi_menu.add_command(label='Pestaña 1', command=color_amarillo)
 mi_menu.add_command(label='Pestaña 2', command=color_verde)
-mi_menu.add_command(label='Pestaña 3', command=color_azul)
+mi_menu.add_command(label='Pes
+                    taña 3', command=color_azul)
 
 mi_dropdown = tk.Menu(ventana)
 mi_dropdown.add_command(label='Amarillo', command=color_amarillo)
